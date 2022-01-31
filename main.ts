@@ -10,7 +10,7 @@ input.onLogoEvent(TouchButtonEvent.Released, function () {
             . . . . .
             `)
     }
-    if (counter == 1) {
+    if (counter == 2) {
         basic.showLeds(`
             # # # # #
             # # # # #
